@@ -1,36 +1,45 @@
-# Lab1 report
-Working Directory: 
+# Lab1 report 1
+![Image](cd1.png)
+Working Directory: /home
+Explanation: cd means change directory, a directory name is needed after cd, 
+Error? : 
+
+![Image](cd2.png)
+Working Directory: /home
 Explanation: 
 Error? : 
 
-Working Directory: 
+![Image](cd3.png)
+Working Directory: /home/lecture1
 Explanation: 
 Error? : 
 
-Working Directory: 
+![Image](ls1.png)
+Working Directory: /home
 Explanation: 
 Error? : 
 
-Working Directory: 
+![Image](ls2.png)
+Working Directory: /home/lecture1
 Explanation: 
 Error? : 
 
-Working Directory: 
+![Image](ls3.png)
+Working Directory: /home/lecture1
 Explanation: 
 Error? : 
 
-Working Directory: 
+![Image](cat1.png)
+Working Directory: /home
 Explanation: 
 Error? : 
 
-Working Directory: 
+![Image](cat2.png)
+Working Directory: /home
 Explanation: 
 Error? : 
 
-Working Directory: 
-Explanation: 
-Error? : 
-
-Working Directory: 
+![Image](cat3.png)
+Working Directory: /home/lecture1
 Explanation: 
 Error? : 
