@@ -21,7 +21,7 @@ Error? : no\
 
 ![Image](ls2.png)\
 Working Directory: /home/lecture1\
-Explanation: It shows what files are in the lecture1 directory
+Explanation: It shows what files are in the lecture1 directory\
 Error? : no\
 
 ![Image](ls3.png)\
