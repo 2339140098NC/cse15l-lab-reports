@@ -21,19 +21,19 @@
 * Error? : no
 
 ![Image](ls2.png)
-* Working Directory: /home/lecture1
+* Working Directory: The working directory when the command was run is /home
 * Explanation: It shows what files are in the lecture1 directory
 * Error? : no
 
 ![Image](ls3.png)
-* Working Directory: /home/lecture1
+* Working Directory: The working directory when the command was run is /home
 * Explanation: It shows what files are in the Hello.java file
 * Error? : Yes, the Hello.java file is not a directory
 
 ![Image](cat1.png)
 * Working Directory: /home
 * Explanation: It shows what's inside a file, this case /home
-* Error? : Yes, /home is a directory, not a file
+* Error? : No
 
 ![Image](cat2.png)
 * Working Directory: /home
@@ -41,6 +41,6 @@
 * Error? : Yes, /lecture1 is a directory, not a file
 
 ![Image](cat3.png)
-* Working Directory: /home/lecture1
+* Working Directory: /home
 * Explanation: It displays what's inside a file, this case /home/lecture1/Hello.java
 * Error? : no
